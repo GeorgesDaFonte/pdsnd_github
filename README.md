@@ -13,5 +13,5 @@ This project is about using GIT
 Include the files used
 
 ### Credits
-GDF
+GDF - Georges Da Fonte
 
