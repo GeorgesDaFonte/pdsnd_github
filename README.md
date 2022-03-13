@@ -7,7 +7,7 @@
 GDF_Github_Udacity_Project
 
 ### Description
-Describe what your project is about and what it does
+This project is about using GIT
 
 ### Files used
 Include the files used
