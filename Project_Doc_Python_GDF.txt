@@ -1,0 +1,31 @@
+Python Project:
+As you can see, i'm pretty late.
+I commented before updloading this that it was quiet hard for me to spend time with my job for Python which is for me 
+much more difficult to understand that SQL.
+I come from scratchs and it was tough.
+The stackoverflow site helped me a lot also udacity material.
+
+
+
+The more difficult for me was to implement the while loop rule with a validation.
+For the while loop at the begining the Udacity material was helpfull even if i failled a lot.
+but i got a lot of difficulties with the def(main) loop validation ending.
+Luckely, i found that which helped me after tons of tries.
+
+*Implementing Your Own Validation Rules:
+Asking the user for input until they give a valid response
+
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
+https://stackoverflow.com/questions/47735267/while-loop-with-yes-no-input-python/47735410
+https://gist.github.com/garrettdreyfus/8153571
+
+*Help for the calculation thanks to the goup by function:
+https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.GroupBy.mean.html
+
+*Loading and filtering CSV:
+https://stackoverflow.com/questions/61872834/python-read-csv-file-and-filter-data
+for the def load_data part
+
+But of course, i failed tons of times before getting this.
+
+Thank you
